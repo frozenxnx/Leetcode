@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/frozenxnx/Leetcode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/frozenxnx/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/frozenxnx/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/frozenxnx/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/frozenxnx/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
@@ -62,17 +63,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/frozenxnx/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/frozenxnx/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sorting
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/frozenxnx/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/frozenxnx/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
