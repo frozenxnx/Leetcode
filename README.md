@@ -80,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/frozenxnx/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/frozenxnx/Leetcode/tree/master/0443-string-compression) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/frozenxnx/Leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
