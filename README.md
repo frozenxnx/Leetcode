@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/frozenxnx/Leetcode/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/frozenxnx/Leetcode/tree/master/0443-string-compression) |
 ## Bit Manipulation
 |  |
