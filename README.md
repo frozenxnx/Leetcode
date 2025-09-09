@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/frozenxnx/Leetcode/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/frozenxnx/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Tree
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/frozenxnx/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/frozenxnx/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/frozenxnx/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/frozenxnx/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/frozenxnx/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/frozenxnx/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
