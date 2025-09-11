@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/frozenxnx/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/frozenxnx/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/frozenxnx/Leetcode/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/frozenxnx/Leetcode/tree/master/0443-string-compression) |
+| [2887-sort-vowels-in-a-string](https://github.com/frozenxnx/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
