@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/frozenxnx/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/frozenxnx/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/frozenxnx/Leetcode/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/frozenxnx/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1006-vowel-spellchecker](https://github.com/frozenxnx/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/frozenxnx/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/frozenxnx/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/frozenxnx/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/frozenxnx/Leetcode/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/frozenxnx/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/frozenxnx/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Simulation
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/frozenxnx/Leetcode/tree/master/0048-rotate-image) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/frozenxnx/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/frozenxnx/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
