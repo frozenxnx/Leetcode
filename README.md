@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/frozenxnx/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1006-vowel-spellchecker](https://github.com/frozenxnx/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/frozenxnx/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1435-xor-queries-of-a-subarray](https://github.com/frozenxnx/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/frozenxnx/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/frozenxnx/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/frozenxnx/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/frozenxnx/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/frozenxnx/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/frozenxnx/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/frozenxnx/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
