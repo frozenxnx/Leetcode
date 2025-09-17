@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/frozenxnx/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/frozenxnx/Leetcode/tree/master/0048-rotate-image) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/frozenxnx/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/frozenxnx/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/frozenxnx/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/frozenxnx/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/frozenxnx/Leetcode/tree/master/0146-lru-cache) |
 ## Design
@@ -186,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/frozenxnx/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/frozenxnx/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
