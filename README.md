@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/frozenxnx/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/frozenxnx/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/frozenxnx/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2429-design-a-food-rating-system](https://github.com/frozenxnx/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/frozenxnx/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/frozenxnx/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/frozenxnx/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/frozenxnx/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/frozenxnx/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2429-design-a-food-rating-system](https://github.com/frozenxnx/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/frozenxnx/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/frozenxnx/Leetcode/tree/master/0443-string-compression) |
 | [1006-vowel-spellchecker](https://github.com/frozenxnx/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/frozenxnx/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/frozenxnx/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/frozenxnx/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/frozenxnx/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/frozenxnx/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -166,8 +169,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/frozenxnx/Leetcode/tree/master/0146-lru-cache) |
+| [2429-design-a-food-rating-system](https://github.com/frozenxnx/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/frozenxnx/Leetcode/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/frozenxnx/Leetcode/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/frozenxnx/Leetcode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
