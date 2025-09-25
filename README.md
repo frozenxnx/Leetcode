@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/frozenxnx/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/frozenxnx/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/frozenxnx/Leetcode/tree/master/0048-rotate-image) |
+| [0120-triangle](https://github.com/frozenxnx/Leetcode/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/frozenxnx/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1006-vowel-spellchecker](https://github.com/frozenxnx/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/frozenxnx/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/frozenxnx/Leetcode/tree/master/0120-triangle) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/frozenxnx/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/frozenxnx/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
