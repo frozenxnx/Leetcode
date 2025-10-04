@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/frozenxnx/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/frozenxnx/Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/frozenxnx/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/frozenxnx/Leetcode/tree/master/0037-sudoku-solver) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/frozenxnx/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/frozenxnx/Leetcode/tree/master/0015-3sum) |
 | [0165-compare-version-numbers](https://github.com/frozenxnx/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/frozenxnx/Leetcode/tree/master/0443-string-compression) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/frozenxnx/Leetcode/tree/master/0011-container-with-most-water) |
 | [1018-largest-perimeter-triangle](https://github.com/frozenxnx/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/frozenxnx/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Game Theory
