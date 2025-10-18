@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT e1.employee_id
 FROM Employees e1
 LEFT JOIN Employees e2
