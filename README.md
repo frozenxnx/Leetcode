@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/frozenxnx/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/frozenxnx/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/frozenxnx/Leetcode/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/frozenxnx/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/frozenxnx/Leetcode/tree/master/0120-triangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/frozenxnx/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/frozenxnx/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/frozenxnx/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/frozenxnx/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/frozenxnx/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/frozenxnx/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/frozenxnx/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/frozenxnx/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/frozenxnx/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/frozenxnx/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/frozenxnx/Leetcode/tree/master/0443-string-compression) |
 ## String
