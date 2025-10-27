@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/frozenxnx/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/frozenxnx/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/frozenxnx/Leetcode/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/frozenxnx/Leetcode/tree/master/0169-majority-element) |
 | [0417-pacific-atlantic-water-flow](https://github.com/frozenxnx/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/frozenxnx/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0830-largest-triangle-area](https://github.com/frozenxnx/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/frozenxnx/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/frozenxnx/Leetcode/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/frozenxnx/Leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/frozenxnx/Leetcode/tree/master/0169-majority-element) |
 | [1006-vowel-spellchecker](https://github.com/frozenxnx/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/frozenxnx/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/frozenxnx/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/frozenxnx/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/frozenxnx/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/frozenxnx/Leetcode/tree/master/0169-majority-element) |
 | [1018-largest-perimeter-triangle](https://github.com/frozenxnx/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/frozenxnx/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/frozenxnx/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/frozenxnx/Leetcode/tree/master/0169-majority-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/frozenxnx/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/frozenxnx/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/frozenxnx/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
